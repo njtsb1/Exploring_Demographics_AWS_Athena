@@ -13,7 +13,7 @@ And knowing this interactive query service that makes it easy to analyze data in
 - Amazon Athena
 - Amazon QuickSight
 
-[Steps for development](/Steps_for_development.txt).
+[Steps for development](/Steps_for_development.txt)
 
 - Query select population by city
 
